@@ -1,0 +1,9 @@
+﻿  Sample.cpp
+d:\sampledrob\sample\sample.cpp(60): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+d:\sampledrob\sample\sample.cpp(67): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+d:\sampledrob\sample\sample.cpp(74): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+d:\sampledrob\sample\sample.cpp(75): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+d:\sampledrob\sample\sample.cpp(79): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+d:\sampledrob\sample\sample.cpp(80): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Sample.vcxproj -> D:\SampleDrob\Debug\Sample.exe
+  Sample.vcxproj -> D:\SampleDrob\Debug\Sample.pdb (Full PDB)
